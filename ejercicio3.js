@@ -10,7 +10,7 @@ alert("El resultado de 'ambas son verdaderas' es: " + resultado1);
 // Combinación de una u otra
 let resultado2 = condicion1 |
 
-| condicion2;
+condicion2;
 alert("El resultado de 'una de las dos es verdadera' es: " + resultado2);
 
 // Lo contrario al primer valor
